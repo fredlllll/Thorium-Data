@@ -1,4 +1,4 @@
-﻿namespace Thorium_Data
+﻿namespace Thorium.Data
 {
     public enum DatabaseAction
     {

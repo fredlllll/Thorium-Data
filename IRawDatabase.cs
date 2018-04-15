@@ -1,6 +1,6 @@
 ﻿using System.Data.Common;
 
-namespace Thorium_Data
+namespace Thorium.Data
 {
     public interface IRawDatabase
     {

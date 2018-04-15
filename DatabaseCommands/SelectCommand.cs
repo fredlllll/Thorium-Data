@@ -1,4 +1,4 @@
-﻿namespace Thorium_Data.DatabaseCommands
+﻿namespace Thorium.Data.DatabaseCommands
 {
     public class SelectCommand : ADatabaseCommand
     {

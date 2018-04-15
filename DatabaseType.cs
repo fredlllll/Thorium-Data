@@ -1,4 +1,4 @@
-﻿namespace Thorium_Data
+﻿namespace Thorium.Data
 {
     /// <summary>
     /// derive from this type to create your database types
