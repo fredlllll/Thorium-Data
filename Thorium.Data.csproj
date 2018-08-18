@@ -6,4 +6,9 @@
     <AssemblyName>Thorium.Data</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove=".git" />
+    <None Remove=".gitignore" />
+  </ItemGroup>
+
 </Project>
