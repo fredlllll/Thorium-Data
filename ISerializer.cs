@@ -2,7 +2,7 @@
 {
     public interface ISerializer<TKey, TValue>
     {
-        IRawDatabase Database { get; }
+        ARawDatabaseFactory DatabaseFactory { get; }
         string Table { get; }
         string KeyColumn { get; }
 
